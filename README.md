@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there! 👋 I'm Vishaka
 
-<!--
-**Vishaka120/Vishaka120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a love for building web applications. I specialize in front-end development and have experience working with HTML, CSS, JavaScript, Angular, and React.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm currently working as a Associate Software Engineer at Altera Digital Health.
+- 🎓 I hold a degree in Electronics and Communication from BNM Institute of Technology Bangalore.
+- 🌱 I'm constantly learning and exploring new technologies to expand my skills.
+- 😄 Pronouns: She/Her
+
+## My Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript, Angular, React, Typescript
+- **Tools & Others**: Git, VS Code, npm, etc.
+
+## Let's Connect 🤝
+
+If you'd like to collaborate on a project, discuss tech, or just chat, feel free to reach out:
+
+- LinkedIn: www.linkedin.com/in/vishaka-saralaya-427135185
+- Email: vishaka.v.saralaya@gmail.com
+
+Let's build something amazing together! 😊
